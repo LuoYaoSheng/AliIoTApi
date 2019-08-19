@@ -91,8 +91,8 @@ func IoT_QueryPageByApplyId(ApplyId,PageSize,CurrentPage string)string  {
 func signUrl(requests map[string] string) string  {
 
 	iotUrl := "http://iot.cn-shanghai.aliyuncs.com/?"
-	accessKeyID := "LTAIaLC3JoT3Djqv"
-	accessSecret := "hsRrxobaFmbhgyuafEI3f39EBbAYx3"
+	accessKeyID := "xxx"
+	accessSecret := "xxx"
 
 	v := url.Values{}
 	//公共参数
