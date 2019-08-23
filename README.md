@@ -7,7 +7,7 @@
 
 ## 阿里云在线示例
 
-在线示例 [API Explorer][open-api] 提供在线调用阿里云产品，并动态生成 SDK 代码和快速检索接口等能力，能显著降低使用云 API 的难度。
+[API Explorer][open-api] 提供在线调用阿里云产品，并动态生成 SDK 代码和快速检索接口等能力，能显著降低使用云 API 的难度。
 
 阿里云SDK发布地址: https://develop.aliyun.com/tools/sdk#/go 
 
@@ -36,3 +36,4 @@ func main() {
 
 ```
 
+[open-api]: https://api.aliyun.com/
