@@ -3,7 +3,7 @@
 
 此处仅限于学习交流，真实项目开发建议使用官方方法实现。
 
-[GitChat-url]可以到gitchat一起讨论学习
+可以到[GitChat][GitChat-url]一起讨论学习
 
 
 
