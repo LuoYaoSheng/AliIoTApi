@@ -3,6 +3,8 @@
 
 此处仅限于学习交流，真实项目开发建议使用官方方法实现。
 
+[GitChat-url]可以到gitchat一起讨论学习
+
 
 
 ## 阿里云在线示例
@@ -35,5 +37,5 @@ func main() {
 }
 
 ```
-
+[GitChat-url]: https://gitbook.cn/gitchat/activity/5d5402993767461226d2f9db
 [open-api]: https://api.aliyun.com/
